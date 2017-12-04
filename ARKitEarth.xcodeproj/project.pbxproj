@@ -13,6 +13,7 @@
 		52876BEA1FD5B5E90095D994 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52876BE81FD5B5E90095D994 /* Main.storyboard */; };
 		52876BEC1FD5B5E90095D994 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52876BEB1FD5B5E90095D994 /* Assets.xcassets */; };
 		52876BEF1FD5B5E90095D994 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52876BED1FD5B5E90095D994 /* LaunchScreen.storyboard */; };
+		52876BF71FD5B6100095D994 /* EarthNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52876BF61FD5B6100095D994 /* EarthNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		52876BEB1FD5B5E90095D994 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52876BEE1FD5B5E90095D994 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52876BF01FD5B5E90095D994 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52876BF61FD5B6100095D994 /* EarthNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EarthNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				52876BE21FD5B5E90095D994 /* AppDelegate.swift */,
 				52876BE41FD5B5E90095D994 /* art.scnassets */,
 				52876BE61FD5B5E90095D994 /* ViewController.swift */,
+				52876BF61FD5B6100095D994 /* EarthNode.swift */,
 				52876BE81FD5B5E90095D994 /* Main.storyboard */,
 				52876BEB1FD5B5E90095D994 /* Assets.xcassets */,
 				52876BED1FD5B5E90095D994 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52876BE71FD5B5E90095D994 /* ViewController.swift in Sources */,
+				52876BF71FD5B6100095D994 /* EarthNode.swift in Sources */,
 				52876BE31FD5B5E90095D994 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
